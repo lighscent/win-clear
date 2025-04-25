@@ -7,7 +7,7 @@ A simple utility to add the `clear` command to Windows, similar to Linux/Unix sy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/win-clear.git
+git clone https://github.com/lighscent/win-clear.git win-clear
 cd win-clear
 ```
 
