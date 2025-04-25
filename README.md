@@ -16,6 +16,7 @@ cd win-clear
 2. Launch PowerShell as administrator and run:
 
 ```powershell
+cd C:\Users\x\Desktop\win-clear
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\install-clear.ps1
 ```
