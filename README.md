@@ -2,6 +2,8 @@
 
 A simple utility to add the `clear` command to Windows, similar to Linux/Unix systems.
 
+[FAQ](FAQ.md)
+
 ## 📋 Installation
 
 1. Clone this repository:
